@@ -1,0 +1,32 @@
+body {
+    padding-top: 30px;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: hwb(28 38% 9% / 0.829)
+    
+}
+.body{
+    border-style: dotted;
+    background:hwb(27 80% 9% / 0.979);
+    border-top: 0px;
+}
+h1 {
+    
+    font-size: 30px;
+    background:hwb(27 80% 9% / 0.979);
+    font-family:Impact, fantasy;
+    border-style: dotted;
+    border-left: 0px;
+    border-right:0px;
+   
+}
+
+
+.head {
+    font-family: monospace;
+}
+
+#poem {
+    font-family: URW Chancery L, cursive;
+    
+}
